@@ -1,4 +1,4 @@
-## Hi | Club Algoritmia Teacher & Dormilones Party Leader & Algoritmia City Founder
+## Hi | Club Algoritmia Teacher, Dormilones Party Leader and Algoritmia City Founder
 ### [Resume](https://www.overleaf.com/read/gxqztkbszgnb#664fc1)
 ### [Activity](https://devava-dashboard-c3gbeyd5f2bvh0dj.eastus-01.azurewebsites.net/)
 <!--
