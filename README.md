@@ -1,6 +1,6 @@
-## Hi there 👋
-### [¡Codeforces!](https://codeforces.com/profile/devava)
-### [¡LeetCode!](https://leetcode.com/u/HideOnVava/)
+## Hi
+### [Resume](https://www.overleaf.com/read/gxqztkbszgnb#664fc1)
+### [Activity](https://devava-dashboard-c3gbeyd5f2bvh0dj.eastus-01.azurewebsites.net/)
 <!--
 **HideOnVava/HideOnVava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
