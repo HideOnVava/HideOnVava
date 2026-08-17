@@ -1,6 +1,6 @@
 ## Hi | Club Algoritmia Teacher, Dormilones Party Leader and Algoritmia City Founder
 ### [Resume](https://www.overleaf.com/read/gxqztkbszgnb#664fc1)
-### [Activity](https://devava-dashboard-c3gbeyd5f2bvh0dj.eastus-01.azurewebsites.net/)
+### [Hub](https://devava-dashboard-c3gbeyd5f2bvh0dj.eastus-01.azurewebsites.net/)
 <!--
 **HideOnVava/HideOnVava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
