@@ -1,6 +1,6 @@
 ## Hi | Club Algoritmia Teacher, Dormilones Party Leader and Algoritmia City Founder
-### [Resume](https://drive.google.com/file/d/1co2jP_PQfhoDrBZi2e5y2sJ2Q2SaUnAE/view?usp=sharing)
-### [Hub](https://devava-dashboard-c3gbeyd5f2bvh0dj.eastus-01.azurewebsites.net/)
+### [Resume](https://drive.google.com/file/d/1c_iIw1Wps_itwl0K3QtTMrWutIOqLFD9/view?usp=sharing)
+### [Portfolio](https://devava-dashboard-c3gbeyd5f2bvh0dj.eastus-01.azurewebsites.net/)
 ### [itl - Devava Hub](https://devavahub.westus.cloudapp.azure.com/)
 <!--
 **HideOnVava/HideOnVava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
