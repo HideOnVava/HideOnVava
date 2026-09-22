@@ -1,4 +1,4 @@
-## Hi | Club Algoritmia Teacher, Dormilones Party Leader and Algoritmia City Founder
+## Hi | itl Club Algoritmia Teacher, Dormilones 'Party' Leader and Algoritmia City Founder
 
 Monday to Thursday I teach workshops: data structures, OOP, and whatever else the semester throws at us.  
 Fridays are for finding out whether any of it actually stuck: one week a contest on Codeforces, the next we upsolve it.
