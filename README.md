@@ -7,4 +7,4 @@ Fridays are for finding out whether any of it actually stuck: one week a contest
 **[devava-reader](https://github.com/HideOnVava/devava-reader)** · a minimal EPUB / manga reader for Windows  
 **[Codeforces](https://codeforces.com/profile/devava)** · devava, mostly upsolving  
 
-[Resume](https://drive.google.com/file/d/1c_iIw1Wps_itwl0K3QtTMrWutIOqLFD9/view?usp=sharing) · [Portfolio](https://devava-dashboard-c3gbeyd5f2bvh0dj.eastus-01.azurewebsites.net/)
+[Resume](https://drive.google.com/file/d/1c_iIw1Wps_itwl0K3QtTMrWutIOqLFD9/view?usp=sharing) · [Portfolio](https://devava.westus.cloudapp.azure.com/)
